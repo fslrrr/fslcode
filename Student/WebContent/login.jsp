@@ -64,7 +64,7 @@ body {
 				<td><input type="text" name="username" /></td>
 			</tr>
 			<tr>
-				<td align="center"><b>密码</b></td>
+				<td align="center"><b>密码1</b></td>
 				<td><input type="text" name="password" /></td>
 			</tr>
 			<tr>
